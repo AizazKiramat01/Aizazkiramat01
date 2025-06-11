@@ -1,7 +1,3 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="./banner.png" alt="Aizaz Kiramat | Telecommunication Engineer" width="100%">
-</p>
 
 <h1 align="center">Hi 👋, I'm Aizaz Kiramat</h1>
 <h3 align="center">Electronics Enthusiast | Telecommunication Engineering Student | Future Inventor</h3>
@@ -72,10 +68,6 @@
 - 📧 Email: **aizaz.kiramatt@gmail.com**  
 - 🏠 Location: **Mardan, KPK, Pakistan**  
 - 💼 LinkedIn: [linkedin.com/in/aizaz-kiramat-360565356](https://www.linkedin.com/in/aizaz-kiramat-360565356)
-
-<p align="center">
-  <img src="./footer.png" width="60%">
-</p>
 
 <p align="center">
   <i>“Learning by doing, growing by building.”</i>
